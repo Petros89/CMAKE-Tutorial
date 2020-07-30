@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/do_something.h
+parameters.h
+../include/parameters.h
+
+../include/parameters.h
+
+/home/petros/cmake-turorial/src/do_something.cpp
+iostream
+-
+math.h
+-
+do_something.h
+/home/petros/cmake-turorial/src/do_something.h
+
+/home/petros/cmake-turorial/src/hello.cpp
+iostream
+-
+math.h
+-
+parameters.h
+/home/petros/cmake-turorial/src/parameters.h
+do_something.h
+/home/petros/cmake-turorial/src/do_something.h
+

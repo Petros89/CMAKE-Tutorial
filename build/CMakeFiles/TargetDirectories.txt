@@ -1,0 +1,3 @@
+/home/petros/cmake-turorial/build/CMakeFiles/rebuild_cache.dir
+/home/petros/cmake-turorial/build/CMakeFiles/Hello.dir
+/home/petros/cmake-turorial/build/CMakeFiles/edit_cache.dir

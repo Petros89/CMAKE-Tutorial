@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Ofast -march=native -std=c++11  -rdynamic CMakeFiles/Hello.dir/src/do_something.cpp.o CMakeFiles/Hello.dir/src/hello.cpp.o  -o Hello 
